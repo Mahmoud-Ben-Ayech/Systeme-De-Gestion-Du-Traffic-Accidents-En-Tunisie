@@ -8,4 +8,4 @@ As a first step you have to launch the script of data recuperation which contain
 
 Next, you have to launch Backend ***Flask Framework***  and Frontend ***React Framework*** 
 
-***NB :*** More details for the version and setup of ***react*** you can found in ***readme.md*** of ***folder Frontend*** 
+***NB :*** More details for the version and setup of ***react*** you can found in ***readme.md*** of ***folder Frontend***
